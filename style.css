@@ -300,6 +300,7 @@ main {
   .block_main {
     margin-left: 3rem;
   }
+}
 
 @media (min-width: 576px) {
   .block_main {
