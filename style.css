@@ -141,7 +141,6 @@ main {
   margin-bottom: 2rem;
   display: flex;
 }
-
 .date_place {
   grid-column: 1/2;
   grid-row: 1/2;
@@ -171,7 +170,7 @@ main {
 .titre {
   display: flex;
   align-items: baseline;
-  border-bottom: 1px solid #ff5733;
+  border-bottom: 1px solid #e8cb60;
   margin: 40px 0 40px 0;
 }
 
@@ -453,7 +452,6 @@ main {
   #competences {
     grid-column: 2/4;
     grid-row: 32;
-    margin-right: -50px;
   }
 
   .skills_2 {
