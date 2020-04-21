@@ -1,1 +1,1 @@
-Modifications : ajout border radio à la photo | ajout de meta pour le référencement
+Modifications : ajout border radius à la photo | ajout de meta pour le référencement
