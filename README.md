@@ -1,1 +1,1 @@
-Modifications : ajout border radio à la photo | ajout de meta pour le référencement
+Transformer son CV en site Web version 2 pour validation projet
