@@ -296,6 +296,7 @@ main {
 }
 
 /* ***********************  End Buttons ********************** */
+/* ***********************  MEDIA QUERIES ********************** */
 @media (min-width: 425px) {
   .block_main {
     margin-left: 3rem;

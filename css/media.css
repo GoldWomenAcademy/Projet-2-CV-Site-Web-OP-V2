@@ -1,0 +1,166 @@
+/* ***********************  MEDIA QUERIES ********************** */
+@media (min-width: 425px) {
+   .block_main {
+     margin-left: 3rem;
+   }
+ }
+ 
+ @media (min-width: 576px) {
+   .block_main {
+     margin-left: 3rem;
+   }
+ 
+   .skills {
+     margin-left: -3rem;
+   }
+ 
+   .block_section_title .fas {
+     margin-right: 2rem;
+     font-size: 2rem;
+   }
+ 
+   .section_title {
+     font-size: 1.9rem;
+   }
+ }
+ 
+ @media (min-width: 768px) {
+   /* reset */
+   p {
+     margin: 0;
+     padding: 0;
+     font-weight: 400;
+   }
+ 
+   .header_title {
+     font-family: "Roboto", sans-serif;
+     font-weight: 200;
+     font-size: 3rem;
+     text-transform: uppercase;
+     line-height: 1.75rem;
+     text-indent: 0.18rem;
+   }
+ 
+   .block_title {
+     padding: 3rem;
+     padding-top: 5rem;
+     margin-bottom: 2rem;
+   }
+ 
+   .element_main {
+     display: grid;
+     grid-template-columns: 1fr 2fr;
+     grid-template-rows: auto auto;
+     padding-top: 1rem;
+     margin-bottom: 2rem;
+   }
+ 
+   .dot_main {
+     display: flex;
+   }
+ 
+   .dot_main .far,
+   .dot_main .fas {
+     display: inline;
+     color: #e8cb60;
+     margin-right: 0.6rem;
+     line-height: 1.1rem;
+   }
+ 
+   .dot_main .fas {
+     display: inline;
+     font-size: 0.5rem;
+     line-height: 1rem;
+     margin-right: 1rem;
+   }
+ 
+   #about .block_texte_side {
+     padding-left: 2rem;
+     padding-right: 2rem;
+     line-height: 1.1rem;
+   }
+ 
+   .block_section {
+     padding-top: 3rem;
+     margin-left: 3rem;
+     margin-right: 3rem;
+     padding-bottom: 1rem;
+   }
+ 
+   .block_main {
+     margin-left: 3rem;
+   }
+ 
+   .skills {
+     margin-left: -3rem;
+   }
+ 
+   .block_section_title .fas {
+     margin-right: 2rem;
+     font-size: 2rem;
+   }
+ 
+   .section_title {
+     font-size: 1.9rem;
+   }
+ }
+ 
+ @media (min-width: 992px) {
+   main {
+     max-width: 1200px;
+     font-size: 14px;
+     margin: auto;
+     display: grid;
+     grid-template-columns: 1fr 2fr;
+     grid-template-rows: repeat(40, 40px);
+   }
+ 
+   header {
+     grid-column: 2/4;
+     grid-row: 1/7;
+   }
+ 
+   #photo {
+     grid-column: 1/2;
+     grid-row: 1/40;
+     background-color: #e8cb60;
+   }
+ 
+   #formation {
+     grid-column: 2/4;
+     grid-row: 7/21;
+   }
+ 
+   #experience_pro {
+     grid-column: 2/4;
+     grid-row: 21/30;
+   }
+ 
+   #competences {
+     grid-column: 2/4;
+     grid-row: 32;
+   }
+ 
+   #contact {
+     grid-column: 1/2;
+     grid-row: 8/15;
+   }
+ 
+   #about {
+     grid-column: 1/2;
+     grid-row: 15/24;
+   }
+ 
+   #loisirs {
+     grid-column: 1/2;
+     grid-row: 37;
+   }
+ }
+ 
+ @media (min-width: 1200px) {
+   .bloc-sider {
+     margin-left: 3rem;
+     margin-right: 3rem;
+   }
+ }
+ /* *********************** End Media queries Photo ********************** */
