@@ -168,6 +168,10 @@ main {
   margin-left: -3rem;
 }
 
+.skills_2 {
+  margin-left: -3rem;
+}
+
 /* ***********************  End Buttons ********************** */
 
 /* ***********************  End Section  ********************** */
@@ -182,6 +186,7 @@ main {
   font-size: 0.5rem;
   line-height: 1rem;
 }
+
 
 .nom_du_contact {
   margin-bottom: 1rem;
@@ -232,6 +237,8 @@ main {
   border: 2px solid black;
   border-radius: 50%;
   padding: 12px;
+  height: 56px;
+  width: 56px;
 }
 
 /* ********************** Buttons ******************* */
